@@ -9,7 +9,8 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
 
 
 - ### Requirements
-  *1. python 3.8*
+  *1. python 3.8.13*
+  
   *2. pytorch 1.12.1*
 
 
