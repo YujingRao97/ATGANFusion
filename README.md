@@ -16,6 +16,7 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
 
 - #### *Train*
   *1.  Prepare training dataset in ./Train_vi and ./Train_ir.
+  
   *2.  `python ./python/main.py`*
 
 - #### *Test*
