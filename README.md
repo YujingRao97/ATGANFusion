@@ -45,6 +45,8 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
 
 
 ## Citation
+If this work is helpful to you, please cite it as:
+
 ```
 @article{rao2023gan,
   title={AT-GAN: A generative adversarial network with attention and transition for infrared and visible image fusion},
