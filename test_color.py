@@ -48,8 +48,8 @@ def all(i,dataset,g=None):
     data_name = dataset
     e = i
     # page=i
-    path_vi = '../testPaper1/prepare_Dataset/' + data_name + '/vi'
-    path_ir = '../testPaper1/prepare_Dataset/' + data_name + '/ir'
+    path_vi = './prepare_Dataset/' + data_name + '/vi'
+    path_ir = './prepare_Dataset/' + data_name + '/ir'
 
     path_r = './result_color/' + data_name + '/'
     makepath(path_r)
