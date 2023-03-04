@@ -28,7 +28,7 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
    `python test_color.py`
   
   *2.  Generate fused Gray image*
-  `python ./python/main.py`
+  `python test_gray.py`
 
 
 
