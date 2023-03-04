@@ -30,7 +30,7 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
 ***Many thanks to the following implementation for improving the ATGANFusion.:***
 
 - [DenseFuse](https://github.com/hli1221/imagefusion_densefuse)
-- [FusionGAN --official tensorflow implementation](https://github.com/jiayi-ma/FusionGAN) 
+- [FusionGAN](https://github.com/jiayi-ma/FusionGAN) 
 - [PMGI](https://github.com/HaoZhang1018/PMGI_AAAI2020)
 - [U2Fusion](https://github.com/hanna-xu/U2Fusion)
 - [GANMcC](https://github.com/HaoZhang1018/GANMcC)
