@@ -12,6 +12,8 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
   *1. python 3.8.13*
   
   *2. pytorch 1.12.1*
+  
+  *3. xlwt 1.3.0*
 
 
 - #### *Train*
@@ -20,7 +22,9 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
   *2.  `python ./python/main.py`*
 
 - #### *Test*
-  *1.  Generate fused RGB image*
+  *1.  Prepare test dataset in ./prepare_Dataset/XXX/vi and ./prepare_Dataset/XXX/vi.(XXX is datasetname)*
+  
+  *2.  Generate fused RGB image*
    `python test_color.py`
   
   *2.  Generate fused Gray image*
