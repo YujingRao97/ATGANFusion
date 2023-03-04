@@ -9,13 +9,13 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
 
 
 - ### Requirements
-  *1. python 3.8
-	2. pytorch 1.12.1*
+  *1. python 3.8*
+  *2. pytorch 1.12.1*
 
 
 - #### *Train*
-  *1.  Prepare training dataset in ./Train_vi and ./Train_ir
-  2.  `python ./python/main.py`*
+  *1.  Prepare training dataset in ./Train_vi and ./Train_ir.
+  *2.  `python ./python/main.py`*
 
 - #### *Test*
   *1.  Generate fused RGB image*
