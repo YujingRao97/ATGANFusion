@@ -8,7 +8,7 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
 ## Note
 
 
-- ### Requirements
+- ### *Requirements*
   *1. python 3.8.13*
   
   *2. pytorch 1.12.1*
@@ -33,7 +33,7 @@ This is Pytorch implementation of "[AT-GAN: A generative adversarial network wit
 
 
 ## Acknowledgment
-***Many thanks to the following implementation for improving the ATGANFusion.:***
+***Many thanks to the following implementation for improving the ATGANFusion:***
 
 - [DenseFuse](https://github.com/hli1221/imagefusion_densefuse)
 - [FusionGAN](https://github.com/jiayi-ma/FusionGAN) 
