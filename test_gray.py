@@ -64,7 +64,7 @@ def all(i,dataset,g=None):
         #     weights = torch.load('checkpoint/epoch_fix'+str(i)+'/model-0'+str(i)+'.pt')
         #     g.load_state_dict(weights)
         # else:
-        weights = torch.load('checkpoint/epoch_' + str(e) + '1/model-' + str(e) + '.pt')
+        weights = torch.load('checkpoint/epoch_' + str(e) + '/model-' + str(e) + '.pt')
         g.load_state_dict(weights)
     g.eval()
     book = xlwt.Workbook(encoding='utf-8')  # 创建Workbook，相当于创建Excel
